@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Bjornligan@localhost" uuid="4a1c17bd-0985-437f-bace-9ef4e66a26a6">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://localhost\Database_PATH:1434;database=Bjornligan;IntegratedSecurity=true</jdbc-url>
+      <vm-options>-Djava.library.path=C:\Program+&quot; &quot;+Files\Microsoft+&quot; &quot;+JDBC+&quot; &quot;+Driver+&quot; &quot;+6.2+&quot; &quot;+for+&quot; &quot;+SQL+&quot; &quot;+Server\sqljdbc_6.2\enu\auth\x86</vm-options>
+      <driver-properties>
+        <property name="applicationName" value="DataGrip" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>

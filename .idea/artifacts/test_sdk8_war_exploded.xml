@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="test-sdk8:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/test_sdk8_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="test-sdk8/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="test-sdk8" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="C:/Program Files/Microsoft JDBC Driver 6.2 for SQL Server/sqljdbc_6.2/enu/mssql-jdbc-6.2.2.jre8.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
